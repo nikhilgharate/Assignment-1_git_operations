@@ -1,0 +1,26 @@
+#for new project
+touch .gitignore
+git config --global user.name "Nikhil"
+git config -- global user.eamil "nikhilgharate365@gmail.com"
+git init
+git add.
+git commit -m "Initial Commit"
+git status
+git remote add origin git@github.com:nikhilgharate/Table-Tab-Menu-Order-System.git
+git push origin master
+
+
+#adding file for existing project
+git add.
+git commit -m "Added filename"
+git push origin master
+
+#for pull
+#do some changes in file 
+git status
+git pull origin master
+
+#git clone
+git clone git@github.com:nikhilgharate/Table-Tab-Menu-Order-System.git
+
+
